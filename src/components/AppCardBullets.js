@@ -1,7 +1,7 @@
 import React from 'react';
 
 //AAAAAAAAAAAA
-// TESTE DNV com alteração do merge
+// TESTE retirando a alteração
 
 const AppCardBullets = ({date, bullets}) => (
   <div>
