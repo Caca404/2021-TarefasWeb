@@ -1,7 +1,7 @@
 import React from 'react';
 
 //AAAAAAAAAAAA
-// TESTE DNV
+// TESTE retirando a alteração
 
 const AppCardBullets = ({date, bullets}) => (
   <div>
