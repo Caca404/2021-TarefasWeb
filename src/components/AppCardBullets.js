@@ -1,5 +1,8 @@
 import React from 'react';
 
+//AAAAAAAAAAAA
+// TESTE DNV
+
 const AppCardBullets = ({date, bullets}) => (
   <div>
     <hr /> 
